@@ -1,0 +1,28 @@
+.quadrado {
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    position: absolute;
+}
+.quadrado1 {
+    left: 0px;
+    top: 0px;
+    background-color: aqua;
+}
+.quadrado2 {
+    right: 0px;
+    top: 0px;
+    background-color: rgb(73, 255, 1);
+}
+.quadrado3 {
+    left: 0px;
+    bottom: 0px;
+    background-color: rgb(174, 87, 255);
+}
+.quadrado4 {
+    right: 0px;
+    bottom: 0px;
+    background-color: rgb(235, 171, 88);
+}

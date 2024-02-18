@@ -1,0 +1,15 @@
+.alter {
+    list-style: disc;
+    font-size: 30px;
+    color: rgb(65, 64, 66);
+    width: fit-content;
+}
+.alter li:nth-child(odd){
+    background-color: khaki;
+}
+.alter li:nth-child(even){
+    background-color: rgb(56, 94, 151);
+}
+.alter li:hover{
+    font-weight: bolder;
+}

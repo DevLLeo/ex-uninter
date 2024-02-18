@@ -1,0 +1,9 @@
+.timao {
+    border: 5px solid black;
+}
+a:hover {
+   margin: 50px;
+}
+a:active {
+ background-color: blue;
+}
